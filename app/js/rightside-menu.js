@@ -6,3 +6,5 @@ $(function () {
     $(".rightside-menu").addClass("rightside-menu--close");
   });
 });
+
+// переписати на JS
