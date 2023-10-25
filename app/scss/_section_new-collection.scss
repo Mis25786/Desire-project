@@ -10,6 +10,7 @@
   color: $black-color-title;
   font-size: 36px;
   line-height: 1.69;
+  @extend %title-font;
   padding-bottom: 25px;
   margin-bottom: 25px;
   position: relative;
@@ -71,6 +72,7 @@
 .collection__info-title {
   font-size: 20px;
   line-height: 1.25;
+  @extend %title-font;
   color: $black-color-title;
   padding-bottom: 19px;
   margin-bottom: 19px;
